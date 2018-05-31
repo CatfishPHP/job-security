@@ -12,5 +12,14 @@
             "email": "craig-davis@users.noreply.github.com"
         }
     ],
-    "require": {}
+    "autoload": {
+        "psr-4": {
+            "Catfish\\JobSecurity\\": "src/",
+            "Tests\\": "tests/"
+        }
+    },
+    "require": {},
+    "scripts": {
+        "test": "phpunit --colors=always"
+    }
 }

@@ -1,0 +1,18 @@
+<?php
+namespace Catfish\JobSecurity;
+
+class ImportantClass {
+    use JobSecurity;
+
+    public function calculateNetRevenue()
+    {
+        return 1456434;
+    }
+
+    public function resetInternalLaunchCodes()
+    {
+        return;
+    }
+}
+
+/* End of file ImportantClass.php */
