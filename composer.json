@@ -1,0 +1,16 @@
+{
+    "name": "catfishphp/job-security",
+    "description": "Security inspection class",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "^7.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Craig Davis",
+            "email": "craig-davis@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
